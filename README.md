@@ -74,3 +74,12 @@ https://espare.tk/live/tnt_series_lat.m3u8?token=GKCEAyp-Pq2QmsACCo1VWw&expires=
 #EXTINF:0,AXN
 #EXTVLCOPT:network-caching=1000
 https://espare.tk/live/axn_lat.m3u8?token=rMynvMkODU13_1gfJ7jTzA&expires=1606216863
+#EXTINF:0,SPACE
+#EXTVLCOPT:network-caching=1000
+https://espare.tk/live/space_lat.m3u8?token=DovbOTIkP_0K7WR7ScYv_w&expires=1606220336
+#EXTINF:0,DISTRITO COMEDIA
+#EXTVLCOPT:network-caching=1000
+https://espare.tk/live/distritocomedia_lat.m3u8?token=sF0Hbj8eznrOrPHmn5SVmQ&expires=1606220457
+#EXTINF:0,COMEDY CENTER
+#EXTVLCOPT:network-caching=1000
+https://espare.tk/live/comedycentral_lat.m3u8?token=Apmgv_PU7Y4Yu6rdJEq7gA&expires=1606220554
